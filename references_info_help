@@ -1,0 +1,20 @@
+
+Academic References:
+Chakraborty, U. K. (ed.) (2008): Advances in Differential Evolution, vol. 143 of Studies in Computational Intelligence. Springer.
+Feoktistov, V. (2006): Differential Evolution: In Search of Solutions, vol. 5 of Optimization and Its Applications. Springer.
+Onwubolu, G. C., and D. Davendra (eds.) (2009): Differential Evolution: A Handbook for Global Permutation-Based Combinatorial Optimization, vol. 175 of Studies in Computational Intelligence. Springer.
+Price, K. V., R. M. Storn, and J. A. Lampinen (2005): Differential Evolution Differential Evolution: A Practical Approach to Global Optimization, National Computing Series. Springer.
+Storn, R. M. and K. V. Price (1997): “Differential Evolution – A Simple and Efficient Heurisitic for Global Optimization over Continuous Spaces,” Journal of Global Optimization, 11, 341–359.
+Zaharie, D. (2002): “Critical Values for the Control Parameters of Differential Evolution Algorithms,” in Proceedings of MENDEL 2002 8th International Conference of Soft Computing, ed. by Matousek and Osmera, Brno, Czech Republic: Institute of Automation and Computer Science, 62–67.
+Zhang, J., and A. C. Sanderson (2009): Adaptive Differential Evolution: A Robust Approach to Multimodal Problem Optimization, vol. 1 of Adaptation, Learning, and Optimization. Springer.
+
+Blog posts:
+https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/
+
+Examples of implementation in academic research:
+Akkus, O., J. A. Cookson, and A. Hortacsu (2016): “The Determinants of Bank Mergers: A Revealed Preference Analysis,” Management Science, 62(8), 2241–2258.
+Cieslak, A. and P. Povala (2016): “Information in the Term Structure of Yield Curve Volatility,” The Journal
+of Finance, 71, 1393–1436.
+Fox, J. T. and P. Bajari (2013): “Measuring the Efficiency of an FCC Spectrum Auction,” American Economic
+Journal: Microeconomics, 5, 100–146.
+
